@@ -14,7 +14,7 @@ class juridicalEntity  < Person
     attr_accessor :ein #cnpj pt-br
 
     def pay_supplier #pagar fornecedor
-        puts "pay supplier..."
+        "pay supplier..."
     end
 end
 
