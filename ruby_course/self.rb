@@ -5,6 +5,7 @@ class Person
 
     def my_id
         "my id: #{self.object_id}"
+    end
 end     
 
 p = Person.new
