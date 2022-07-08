@@ -28,8 +28,8 @@ puts p2.email = "marcello2@gmaisl"
 puts p2.ssn = "173947374"
 puts p2.speak("Hello!")
 
-p2 = juridicalEntity.new
-puts p2.name = "EMarcello2"
-puts p2.email = "Emarcello2@gmaisl"
-puts p2.ein = "173947374"
-puts p2.pay_supplier
+p3 = juridicalEntity.new
+puts p3.name = "EMarcello2"
+puts p3.email = "Emarcello2@gmaisl"
+puts p3.ein = "173947374"
+puts p3.pay_supplier
